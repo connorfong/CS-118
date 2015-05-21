@@ -1,0 +1,19 @@
+#Author:
+Kai Wang 	604406395	zjuwangk@gmail.com
+Connor Fong 	303991911	tacosrkewl@gmail.com
+
+#How to Run:
+You can run the binary serverFork in terminal:
+
+Step1: change to the directory where serverFork.cpp, type:
+	make
+
+Step2: run the server with a port number. suppose you are using port Number 6666:
+	./serverFork  6666
+
+Step3: open browser, you can view our test HTML File, which includes plain text and jpeg, gif image:
+	http://localhost:6666/test/test.html
+Also, you can seperately view the image file in browser: 
+	http://localhost:6666/test/cloud.jpeg
+
+The test cases succeeded in the firefox browser in the Ubuntu in CS118.vmdk.
